@@ -8,6 +8,7 @@
   border: 10px solid red;
   border-style: double;
   margin: 20px;
+  position: fixed;
 }
 .lol {
   background-color: bisque;
