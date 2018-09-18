@@ -1,1 +1,7 @@
-
+.box {
+  background-color: #000;
+  height: 90px;
+}
+body {
+  background-color: beige;
+}
