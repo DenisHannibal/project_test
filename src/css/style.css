@@ -84,3 +84,7 @@ img {
   text-align: center;
 
 }
+img__gall {
+  width: 200px;
+  height: 200px;
+}
